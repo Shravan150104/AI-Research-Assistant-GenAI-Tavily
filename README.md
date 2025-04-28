@@ -67,6 +67,5 @@ Sources:
 
 - LLM outputs might occasionally be hallucinated, verify critical information manually.
 
-👨‍💻 Author
-Shravan
+👨‍💻 Author: Shravan
 GitHub: @Shravan150104
